@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/averiebeltran/bookish-lamp/issues"
   },
-  "homepage": "https://github.com/averiebeltran/bookish-lamp#readme"
+  "homepage": "https://github.com/averiebeltran/bookish-lamp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
